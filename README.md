@@ -1,0 +1,2 @@
+# WingetAppInstaller
+Wingetを使ったアプリをインストールするソフトウェア
