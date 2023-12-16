@@ -1,2 +1,2 @@
-# WingetAppInstaller
-Wingetを使ったアプリをインストールするソフトウェア
+# PtTools
+様々なPt04が作ったツールが利用できるソフトウェア
