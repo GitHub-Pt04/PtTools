@@ -10,7 +10,7 @@
 
 ## ダウンロード
 
-準備中
+https://github.com/GitHub-Pt04/PtTools/releases/latest
 
 ## 確認されているバグや問題点 (バージョン1.0)
 
