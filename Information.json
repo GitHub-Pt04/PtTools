@@ -1,10 +1,10 @@
 {
     "T_ReleaseNumber":[
-        1
+        All
     ],
-    "T_Version":"",
+    "T_Version":"すべてのバージョン",
     "Type":1,
-    "DateTime":"",
-    "Body":"",
+    "DateTime":"2025/04/13",
+    "Body":"お知らせ表示の\r\nテストです",
     "URL":"None"
 }
